@@ -1,8 +1,13 @@
 [
     {
         "title": "What is so called Partial Information Decomposition?",
-        "time": "2024-03-22",
+        "time": "2024-07-22",
         "file": "posts/Partial information Decomposition.md"
+    },
+    {
+        "title": "IOT_LM maybe a brief summary?",
+        "time": "2024-07-23",
+        "file": "posts/IOTLM.md"
     },
     {
         "title": "WIFI sensing+LLM?",
